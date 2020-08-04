@@ -1,5 +1,5 @@
 class Person
 end
 
-"adele_goldberg" = Dog.new 
-"alan_kay" = Dog.new
+adele_goldberg = Dog.new 
+alan_kay = Dog.new
